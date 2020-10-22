@@ -1,0 +1,725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.86.1">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="19" family="ABCDEE+Tahoma" color="#000000"/>
+	<fontspec id="1" size="12" family="ABCDEE+Tahoma" color="#000000"/>
+	<fontspec id="2" size="12" family="ABCDEE+Tahoma" color="#000000"/>
+	<fontspec id="3" size="12" family="ABCDEE+Tahoma" color="#ffffff"/>
+	<fontspec id="4" size="12" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="5" size="12" family="ABCDEE+Calibri" color="#000000"/>
+	<fontspec id="6" size="16" family="ABCDEE+Tahoma" color="#000000"/>
+	<fontspec id="7" size="10" family="ABCDEE+Calibri" color="#000000"/>
+<text top="24" left="26" width="6" height="23" font="0"><b> </b></text>
+<text top="66" left="25" width="38" height="15" font="1"><b>STATE</b></text>
+<text top="51" left="153" width="34" height="15" font="1"><b>Total </b></text>
+<text top="66" left="152" width="33" height="15" font="1"><b>Seats</b></text>
+<text top="51" left="211" width="34" height="15" font="1"><b>Total </b></text>
+<text top="66" left="205" width="42" height="15" font="1"><b>Senate</b></text>
+<text top="51" left="264" width="45" height="15" font="1"><b>Senate </b></text>
+<text top="66" left="269" width="32" height="15" font="1"><b>Dem.</b></text>
+<text top="51" left="324" width="45" height="15" font="1"><b>Senate </b></text>
+<text top="66" left="332" width="27" height="15" font="1"><b>Rep.</b></text>
+<text top="51" left="385" width="45" height="15" font="1"><b>Senate </b></text>
+<text top="66" left="389" width="33" height="15" font="1"><b>other</b></text>
+<text top="51" left="452" width="34" height="15" font="1"><b>Total </b></text>
+<text top="66" left="448" width="38" height="15" font="1"><b>House</b></text>
+<text top="51" left="506" width="41" height="15" font="1"><b>House </b></text>
+<text top="66" left="509" width="32" height="15" font="1"><b>Dem.</b></text>
+<text top="51" left="562" width="41" height="15" font="1"><b>House </b></text>
+<text top="66" left="568" width="27" height="15" font="1"><b>Rep.</b></text>
+<text top="51" left="615" width="41" height="15" font="1"><b>House </b></text>
+<text top="66" left="618" width="33" height="15" font="1"><b>other</b></text>
+<text top="51" left="678" width="39" height="15" font="1"><b>Legis. </b></text>
+<text top="66" left="674" width="44" height="15" font="1"><b>Control</b></text>
+<text top="51" left="743" width="31" height="15" font="1"><b>Gov. </b></text>
+<text top="66" left="740" width="32" height="15" font="1"><b>Party</b></text>
+<text top="51" left="802" width="36" height="15" font="1"><b>State </b></text>
+<text top="66" left="796" width="44" height="15" font="1"><b>Control</b></text>
+<text top="86" left="25" width="46" height="15" font="2">Alabama</text>
+<text top="86" left="158" width="20" height="15" font="2">140</text>
+<text top="86" left="220" width="13" height="15" font="2">35</text>
+<text top="86" left="282" width="7" height="15" font="2">8</text>
+<text top="86" left="339" width="13" height="15" font="2">26</text>
+<text top="86" left="403" width="7" height="15" font="2">1</text>
+<text top="86" left="457" width="20" height="15" font="2">105</text>
+<text top="86" left="519" width="13" height="15" font="2">33</text>
+<text top="86" left="575" width="13" height="15" font="2">72</text>
+<text top="86" left="686" width="21" height="15" font="3">Rep</text>
+<text top="86" left="746" width="21" height="15" font="3">Rep</text>
+<text top="86" left="808" width="21" height="15" font="3">Rep</text>
+<text top="104" left="25" width="34" height="15" font="2">Alaska</text>
+<text top="104" left="162" width="13" height="15" font="2">60</text>
+<text top="104" left="220" width="13" height="15" font="2">20</text>
+<text top="104" left="282" width="7" height="15" font="2">6</text>
+<text top="104" left="339" width="13" height="15" font="2">14</text>
+<text top="104" left="461" width="13" height="15" font="2">40</text>
+<text top="104" left="519" width="13" height="15" font="2">16</text>
+<text top="104" left="575" width="13" height="15" font="2">23</text>
+<text top="104" left="631" width="7" height="15" font="2">1</text>
+<text top="104" left="686" width="21" height="15" font="3">Rep</text>
+<text top="104" left="748" width="18" height="15" font="2">Ind</text>
+<text top="104" left="799" width="39" height="15" font="2">Divided</text>
+<text top="121" left="25" width="39" height="15" font="2">Arizona</text>
+<text top="121" left="162" width="13" height="15" font="2">90</text>
+<text top="121" left="220" width="13" height="15" font="2">30</text>
+<text top="121" left="279" width="13" height="15" font="2">13</text>
+<text top="121" left="339" width="13" height="15" font="2">17</text>
+<text top="121" left="461" width="13" height="15" font="2">60</text>
+<text top="121" left="519" width="13" height="15" font="2">24</text>
+<text top="121" left="575" width="13" height="15" font="2">36</text>
+<text top="121" left="633" width="4" height="15" font="2"> </text>
+<text top="121" left="686" width="21" height="15" font="3">Rep</text>
+<text top="121" left="746" width="21" height="15" font="3">Rep</text>
+<text top="121" left="808" width="21" height="15" font="3">Rep</text>
+<text top="139" left="25" width="48" height="15" font="2">Arkansas</text>
+<text top="139" left="158" width="20" height="15" font="2">135</text>
+<text top="139" left="220" width="13" height="15" font="2">35</text>
+<text top="139" left="279" width="13" height="15" font="2">11</text>
+<text top="139" left="339" width="13" height="15" font="2">24</text>
+<text top="139" left="457" width="20" height="15" font="2">100</text>
+<text top="139" left="519" width="13" height="15" font="2">36</text>
+<text top="139" left="575" width="13" height="15" font="2">64</text>
+<text top="139" left="633" width="4" height="15" font="2"> </text>
+<text top="139" left="686" width="21" height="15" font="3">Rep</text>
+<text top="139" left="746" width="21" height="15" font="3">Rep</text>
+<text top="139" left="808" width="21" height="15" font="3">Rep</text>
+<text top="156" left="25" width="49" height="15" font="2">California</text>
+<text top="156" left="158" width="20" height="15" font="2">120</text>
+<text top="156" left="220" width="13" height="15" font="2">40</text>
+<text top="156" left="279" width="13" height="15" font="2">25</text>
+<text top="156" left="339" width="13" height="15" font="2">14</text>
+<text top="156" left="400" width="13" height="15" font="2">1v</text>
+<text top="156" left="461" width="13" height="15" font="2">80</text>
+<text top="156" left="519" width="13" height="15" font="2">52</text>
+<text top="156" left="575" width="13" height="15" font="2">28</text>
+<text top="156" left="684" width="25" height="15" font="3">Dem</text>
+<text top="156" left="744" width="25" height="15" font="3">Dem</text>
+<text top="156" left="806" width="25" height="15" font="3">Dem</text>
+<text top="174" left="25" width="47" height="15" font="2">Colorado</text>
+<text top="174" left="158" width="20" height="15" font="2">100</text>
+<text top="174" left="220" width="13" height="15" font="2">35</text>
+<text top="174" left="279" width="13" height="15" font="2">17</text>
+<text top="174" left="339" width="13" height="15" font="2">18</text>
+<text top="174" left="461" width="13" height="15" font="2">65</text>
+<text top="174" left="519" width="13" height="15" font="2">34</text>
+<text top="174" left="575" width="13" height="15" font="2">31</text>
+<text top="174" left="685" width="23" height="15" font="2">Split</text>
+<text top="174" left="744" width="25" height="15" font="3">Dem</text>
+<text top="174" left="799" width="39" height="15" font="2">Divided</text>
+<text top="191" left="25" width="62" height="15" font="2">Connecticut</text>
+<text top="191" left="158" width="20" height="15" font="2">187</text>
+<text top="191" left="220" width="13" height="15" font="2">36</text>
+<text top="191" left="279" width="13" height="15" font="2">20</text>
+<text top="191" left="339" width="13" height="15" font="2">15</text>
+<text top="191" left="403" width="7" height="15" font="2">1</text>
+<text top="191" left="457" width="20" height="15" font="2">151</text>
+<text top="191" left="519" width="13" height="15" font="2">87</text>
+<text top="191" left="575" width="13" height="15" font="2">64</text>
+<text top="191" left="684" width="25" height="15" font="3">Dem</text>
+<text top="191" left="744" width="25" height="15" font="3">Dem</text>
+<text top="191" left="806" width="25" height="15" font="3">Dem</text>
+<text top="208" left="25" width="49" height="15" font="2">Delaware</text>
+<text top="208" left="162" width="13" height="15" font="2">62</text>
+<text top="208" left="220" width="13" height="15" font="2">21</text>
+<text top="208" left="279" width="13" height="15" font="2">12</text>
+<text top="208" left="342" width="7" height="15" font="2">9</text>
+<text top="208" left="461" width="13" height="15" font="2">41</text>
+<text top="208" left="519" width="13" height="15" font="2">25</text>
+<text top="208" left="575" width="13" height="15" font="2">16</text>
+<text top="208" left="684" width="25" height="15" font="3">Dem</text>
+<text top="208" left="744" width="25" height="15" font="3">Dem</text>
+<text top="208" left="806" width="25" height="15" font="3">Dem</text>
+<text top="226" left="25" width="35" height="15" font="2">Florida</text>
+<text top="226" left="158" width="20" height="15" font="2">160</text>
+<text top="226" left="220" width="13" height="15" font="2">40</text>
+<text top="226" left="279" width="13" height="15" font="2">14</text>
+<text top="226" left="339" width="13" height="15" font="2">26</text>
+<text top="226" left="457" width="20" height="15" font="2">120</text>
+<text top="226" left="519" width="13" height="15" font="2">39</text>
+<text top="226" left="575" width="13" height="15" font="2">81</text>
+<text top="226" left="686" width="21" height="15" font="3">Rep</text>
+<text top="226" left="746" width="21" height="15" font="3">Rep</text>
+<text top="226" left="808" width="21" height="15" font="3">Rep</text>
+<text top="243" left="25" width="41" height="15" font="2">Georgia</text>
+<text top="243" left="158" width="20" height="15" font="2">236</text>
+<text top="243" left="220" width="13" height="15" font="2">56</text>
+<text top="243" left="279" width="13" height="15" font="2">17</text>
+<text top="243" left="339" width="13" height="15" font="2">39</text>
+<text top="243" left="457" width="20" height="15" font="2">180</text>
+<text top="243" left="519" width="13" height="15" font="2">61</text>
+<text top="243" left="571" width="20" height="15" font="2">118</text>
+<text top="243" left="631" width="7" height="15" font="2">1</text>
+<text top="243" left="686" width="21" height="15" font="3">Rep</text>
+<text top="243" left="746" width="21" height="15" font="3">Rep</text>
+<text top="243" left="808" width="21" height="15" font="3">Rep</text>
+<text top="261" left="25" width="35" height="15" font="2">Hawaii</text>
+<text top="261" left="162" width="13" height="15" font="2">76</text>
+<text top="261" left="220" width="13" height="15" font="2">25</text>
+<text top="261" left="279" width="13" height="15" font="2">24</text>
+<text top="261" left="342" width="7" height="15" font="2">1</text>
+<text top="261" left="461" width="13" height="15" font="2">51</text>
+<text top="261" left="519" width="13" height="15" font="2">44</text>
+<text top="261" left="578" width="7" height="15" font="2">7</text>
+<text top="261" left="684" width="25" height="15" font="3">Dem</text>
+<text top="261" left="744" width="25" height="15" font="3">Dem</text>
+<text top="261" left="806" width="25" height="15" font="3">Dem</text>
+<text top="278" left="25" width="31" height="15" font="2">Idaho</text>
+<text top="278" left="158" width="20" height="15" font="2">105</text>
+<text top="278" left="220" width="13" height="15" font="2">35</text>
+<text top="278" left="282" width="7" height="15" font="2">7</text>
+<text top="278" left="339" width="13" height="15" font="2">28</text>
+<text top="278" left="461" width="13" height="15" font="2">70</text>
+<text top="278" left="519" width="13" height="15" font="2">14</text>
+<text top="278" left="575" width="13" height="15" font="2">56</text>
+<text top="278" left="633" width="4" height="15" font="2"> </text>
+<text top="278" left="686" width="21" height="15" font="3">Rep</text>
+<text top="278" left="746" width="21" height="15" font="3">Rep</text>
+<text top="278" left="808" width="21" height="15" font="3">Rep</text>
+<text top="296" left="25" width="34" height="15" font="2">Illinois</text>
+<text top="296" left="158" width="20" height="15" font="2">177</text>
+<text top="296" left="220" width="13" height="15" font="2">59</text>
+<text top="296" left="279" width="13" height="15" font="2">39</text>
+<text top="296" left="339" width="13" height="15" font="2">20</text>
+<text top="296" left="457" width="20" height="15" font="2">118</text>
+<text top="296" left="519" width="13" height="15" font="2">71</text>
+<text top="296" left="575" width="13" height="15" font="2">47</text>
+<text top="296" left="633" width="4" height="15" font="2"> </text>
+<text top="296" left="684" width="25" height="15" font="3">Dem</text>
+<text top="296" left="746" width="21" height="15" font="3">Rep</text>
+<text top="296" left="799" width="39" height="15" font="2">Divided</text>
+<text top="313" left="25" width="40" height="15" font="2">Indiana</text>
+<text top="313" left="158" width="20" height="15" font="2">150</text>
+<text top="313" left="220" width="13" height="15" font="2">50</text>
+<text top="313" left="279" width="13" height="15" font="2">10</text>
+<text top="313" left="339" width="13" height="15" font="2">40</text>
+<text top="313" left="457" width="20" height="15" font="2">100</text>
+<text top="313" left="519" width="13" height="15" font="2">30</text>
+<text top="313" left="575" width="13" height="15" font="2">70</text>
+<text top="313" left="686" width="21" height="15" font="3">Rep</text>
+<text top="313" left="746" width="21" height="15" font="3">Rep</text>
+<text top="313" left="808" width="21" height="15" font="3">Rep</text>
+<text top="331" left="25" width="26" height="15" font="2">Iowa</text>
+<text top="331" left="158" width="20" height="15" font="2">150</text>
+<text top="331" left="220" width="13" height="15" font="2">50</text>
+<text top="331" left="279" width="13" height="15" font="2">26</text>
+<text top="331" left="339" width="13" height="15" font="2">24</text>
+<text top="331" left="457" width="20" height="15" font="2">100</text>
+<text top="331" left="519" width="13" height="15" font="2">43</text>
+<text top="331" left="575" width="13" height="15" font="2">57</text>
+<text top="331" left="685" width="23" height="15" font="2">Split</text>
+<text top="331" left="746" width="21" height="15" font="3">Rep</text>
+<text top="331" left="799" width="39" height="15" font="2">Divided</text>
+<text top="348" left="25" width="37" height="15" font="2">Kansas</text>
+<text top="348" left="158" width="20" height="15" font="2">165</text>
+<text top="348" left="220" width="13" height="15" font="2">40</text>
+<text top="348" left="282" width="7" height="15" font="2">8</text>
+<text top="348" left="339" width="13" height="15" font="2">32</text>
+<text top="348" left="457" width="20" height="15" font="2">125</text>
+<text top="348" left="519" width="13" height="15" font="2">28</text>
+<text top="348" left="575" width="13" height="15" font="2">97</text>
+<text top="348" left="633" width="4" height="15" font="2"> </text>
+<text top="348" left="686" width="21" height="15" font="3">Rep</text>
+<text top="348" left="746" width="21" height="15" font="3">Rep</text>
+<text top="348" left="808" width="21" height="15" font="3">Rep</text>
+<text top="366" left="25" width="48" height="15" font="2">Kentucky</text>
+<text top="366" left="158" width="20" height="15" font="2">138</text>
+<text top="366" left="220" width="13" height="15" font="2">38</text>
+<text top="366" left="279" width="13" height="15" font="2">11</text>
+<text top="366" left="339" width="13" height="15" font="2">27</text>
+<text top="366" left="457" width="20" height="15" font="2">100</text>
+<text top="366" left="519" width="13" height="15" font="2">52</text>
+<text top="366" left="575" width="13" height="15" font="2">44</text>
+<text top="366" left="628" width="13" height="15" font="2">4v</text>
+<text top="366" left="685" width="23" height="15" font="2">Split</text>
+<text top="366" left="746" width="21" height="15" font="3">Rep</text>
+<text top="366" left="799" width="39" height="15" font="2">Divided</text>
+<text top="383" left="25" width="49" height="15" font="2">Louisiana</text>
+<text top="383" left="158" width="20" height="15" font="2">144</text>
+<text top="383" left="220" width="13" height="15" font="2">39</text>
+<text top="383" left="279" width="13" height="15" font="2">14</text>
+<text top="383" left="339" width="13" height="15" font="2">25</text>
+<text top="383" left="457" width="20" height="15" font="2">105</text>
+<text top="383" left="519" width="13" height="15" font="2">42</text>
+<text top="383" left="575" width="13" height="15" font="2">61</text>
+<text top="383" left="631" width="7" height="15" font="2">2</text>
+<text top="383" left="686" width="81" height="15" font="3">Rep Rep Rep</text>
+<text top="383" left="808" width="21" height="15" font="3">Rep</text>
+<text top="401" left="25" width="31" height="15" font="2">Maine</text>
+<text top="401" left="158" width="20" height="15" font="2">186</text>
+<text top="401" left="220" width="13" height="15" font="2">35</text>
+<text top="401" left="279" width="13" height="15" font="2">15</text>
+<text top="401" left="339" width="13" height="15" font="2">20</text>
+<text top="401" left="404" width="4" height="15" font="2"> </text>
+<text top="401" left="457" width="20" height="15" font="2">151</text>
+<text top="401" left="519" width="13" height="15" font="2">77</text>
+<text top="401" left="575" width="13" height="15" font="2">70</text>
+<text top="401" left="631" width="7" height="15" font="2">4</text>
+<text top="401" left="685" width="23" height="15" font="2">Split</text>
+<text top="401" left="746" width="21" height="15" font="3">Rep</text>
+<text top="401" left="799" width="39" height="15" font="2">Divided</text>
+<text top="418" left="25" width="48" height="15" font="2">Maryland</text>
+<text top="418" left="158" width="20" height="15" font="2">188</text>
+<text top="418" left="220" width="13" height="15" font="2">47</text>
+<text top="418" left="279" width="13" height="15" font="2">33</text>
+<text top="418" left="339" width="13" height="15" font="2">14</text>
+<text top="418" left="457" width="20" height="15" font="2">141</text>
+<text top="418" left="519" width="13" height="15" font="2">91</text>
+<text top="418" left="575" width="13" height="15" font="2">50</text>
+<text top="418" left="684" width="25" height="15" font="3">Dem</text>
+<text top="418" left="746" width="21" height="15" font="3">Rep</text>
+<text top="418" left="799" width="39" height="15" font="2">Divided</text>
+<text top="435" left="25" width="77" height="15" font="2">Massachusetts</text>
+<text top="435" left="158" width="20" height="15" font="2">200</text>
+<text top="435" left="220" width="13" height="15" font="2">40</text>
+<text top="435" left="279" width="13" height="15" font="2">33</text>
+<text top="435" left="342" width="7" height="15" font="2">5</text>
+<text top="435" left="400" width="13" height="15" font="2">2v</text>
+<text top="435" left="457" width="20" height="15" font="2">160</text>
+<text top="435" left="515" width="20" height="15" font="2">123</text>
+<text top="435" left="575" width="13" height="15" font="2">34</text>
+<text top="435" left="628" width="13" height="15" font="2">3v</text>
+<text top="435" left="684" width="25" height="15" font="3">Dem</text>
+<text top="435" left="746" width="21" height="15" font="3">Rep</text>
+<text top="435" left="799" width="39" height="15" font="2">Divided</text>
+<text top="453" left="25" width="47" height="15" font="2">Michigan</text>
+<text top="453" left="158" width="20" height="15" font="2">148</text>
+<text top="453" left="220" width="13" height="15" font="2">38</text>
+<text top="453" left="279" width="13" height="15" font="2">11</text>
+<text top="453" left="339" width="13" height="15" font="2">27</text>
+<text top="453" left="404" width="4" height="15" font="2"> </text>
+<text top="453" left="457" width="20" height="15" font="2">110</text>
+<text top="453" left="519" width="13" height="15" font="2">46</text>
+<text top="453" left="575" width="13" height="15" font="2">61</text>
+<text top="453" left="628" width="13" height="15" font="2">3v</text>
+<text top="453" left="686" width="21" height="15" font="3">Rep</text>
+<text top="453" left="746" width="21" height="15" font="3">Rep</text>
+<text top="453" left="808" width="21" height="15" font="3">Rep</text>
+<text top="470" left="25" width="54" height="15" font="2">Minnesota</text>
+<text top="470" left="158" width="20" height="15" font="2">201</text>
+<text top="470" left="220" width="13" height="15" font="2">67</text>
+<text top="470" left="279" width="13" height="15" font="2">39</text>
+<text top="470" left="339" width="13" height="15" font="2">27</text>
+<text top="470" left="400" width="13" height="15" font="2">1v</text>
+<text top="470" left="457" width="20" height="15" font="2">134</text>
+<text top="470" left="519" width="13" height="15" font="2">61</text>
+<text top="470" left="575" width="13" height="15" font="2">72</text>
+<text top="470" left="628" width="13" height="15" font="2">1v</text>
+<text top="470" left="685" width="23" height="15" font="2">Split</text>
+<text top="470" left="744" width="25" height="15" font="3">Dem</text>
+<text top="470" left="799" width="39" height="15" font="2">Divided</text>
+<text top="488" left="25" width="59" height="15" font="2">Mississippi </text>
+<text top="488" left="158" width="20" height="15" font="2">174</text>
+<text top="488" left="220" width="13" height="15" font="2">52</text>
+<text top="488" left="279" width="13" height="15" font="2">20</text>
+<text top="488" left="339" width="13" height="15" font="2">32</text>
+<text top="488" left="457" width="20" height="15" font="2">122</text>
+<text top="488" left="519" width="13" height="15" font="2">49</text>
+<text top="488" left="575" width="13" height="15" font="2">73</text>
+<text top="488" left="686" width="21" height="15" font="3">Rep</text>
+<text top="488" left="746" width="21" height="15" font="3">Rep</text>
+<text top="488" left="808" width="21" height="15" font="3">Rep</text>
+<text top="505" left="25" width="43" height="15" font="2">Missouri</text>
+<text top="505" left="158" width="20" height="15" font="2">197</text>
+<text top="505" left="220" width="13" height="15" font="2">34</text>
+<text top="505" left="282" width="7" height="15" font="2">9</text>
+<text top="505" left="339" width="13" height="15" font="2">25</text>
+<text top="505" left="457" width="20" height="15" font="2">163</text>
+<text top="505" left="519" width="13" height="15" font="2">45</text>
+<text top="505" left="571" width="20" height="15" font="2">117</text>
+<text top="505" left="631" width="7" height="15" font="2">1</text>
+<text top="505" left="686" width="21" height="15" font="3">Rep</text>
+<text top="505" left="744" width="25" height="15" font="3">Dem</text>
+<text top="505" left="799" width="39" height="15" font="2">Divided</text>
+<text top="523" left="25" width="46" height="15" font="2">Montana</text>
+<text top="523" left="158" width="20" height="15" font="2">150</text>
+<text top="523" left="220" width="13" height="15" font="2">50</text>
+<text top="523" left="279" width="13" height="15" font="2">21</text>
+<text top="523" left="339" width="13" height="15" font="2">29</text>
+<text top="523" left="457" width="20" height="15" font="2">100</text>
+<text top="523" left="519" width="13" height="15" font="2">41</text>
+<text top="523" left="575" width="13" height="15" font="2">59</text>
+<text top="523" left="633" width="4" height="15" font="2"> </text>
+<text top="523" left="686" width="21" height="15" font="3">Rep</text>
+<text top="523" left="744" width="25" height="15" font="3">Dem</text>
+<text top="523" left="799" width="39" height="15" font="2">Divided</text>
+<text top="540" left="25" width="49" height="15" font="2">Nebraska</text>
+<text top="540" left="162" width="13" height="15" font="2">49</text>
+<text top="540" left="220" width="13" height="15" font="2">49</text>
+<text top="540" left="399" width="13" height="15" font="2">49</text>
+<text top="540" left="442" width="59" height="15" font="2">Unicameral</text>
+<text top="540" left="686" width="20" height="15" font="2">N/A</text>
+<text top="540" left="746" width="21" height="15" font="3">Rep</text>
+<text top="540" left="808" width="20" height="15" font="2">N/A</text>
+<text top="558" left="25" width="40" height="15" font="2">Nevada</text>
+<text top="558" left="162" width="13" height="15" font="2">63</text>
+<text top="558" left="220" width="13" height="15" font="2">21</text>
+<text top="558" left="279" width="13" height="15" font="2">10</text>
+<text top="558" left="339" width="13" height="15" font="2">11</text>
+<text top="558" left="461" width="13" height="15" font="2">42</text>
+<text top="558" left="519" width="13" height="15" font="2">17</text>
+<text top="558" left="575" width="13" height="15" font="2">25</text>
+<text top="558" left="686" width="21" height="15" font="3">Rep</text>
+<text top="558" left="746" width="21" height="15" font="3">Rep</text>
+<text top="558" left="808" width="21" height="15" font="3">Rep</text>
+<text top="575" left="25" width="84" height="15" font="2">New Hampshire</text>
+<text top="575" left="158" width="20" height="15" font="2">424</text>
+<text top="575" left="220" width="13" height="15" font="2">24</text>
+<text top="575" left="279" width="13" height="15" font="2">10</text>
+<text top="575" left="339" width="13" height="15" font="2">14</text>
+<text top="575" left="404" width="4" height="15" font="2"> </text>
+<text top="575" left="457" width="20" height="15" font="2">400</text>
+<text top="575" left="515" width="20" height="15" font="2">160</text>
+<text top="575" left="571" width="20" height="15" font="2">239</text>
+<text top="575" left="631" width="7" height="15" font="2">1</text>
+<text top="575" left="686" width="21" height="15" font="3">Rep</text>
+<text top="575" left="744" width="25" height="15" font="3">Dem</text>
+<text top="575" left="799" width="39" height="15" font="2">Divided</text>
+<text top="593" left="25" width="68" height="15" font="2">New Jersey  </text>
+<text top="593" left="158" width="20" height="15" font="2">120</text>
+<text top="593" left="220" width="13" height="15" font="2">40</text>
+<text top="593" left="279" width="13" height="15" font="2">24</text>
+<text top="593" left="339" width="13" height="15" font="2">16</text>
+<text top="593" left="461" width="13" height="15" font="2">80</text>
+<text top="593" left="519" width="13" height="15" font="2">51</text>
+<text top="593" left="575" width="13" height="15" font="2">29</text>
+<text top="593" left="684" width="25" height="15" font="3">Dem</text>
+<text top="593" left="746" width="21" height="15" font="3">Rep</text>
+<text top="593" left="799" width="39" height="15" font="2">Divided</text>
+<text top="610" left="25" width="64" height="15" font="2">New Mexico</text>
+<text top="610" left="158" width="20" height="15" font="2">112</text>
+<text top="610" left="220" width="13" height="15" font="2">42</text>
+<text top="610" left="279" width="13" height="15" font="2">25</text>
+<text top="610" left="339" width="13" height="15" font="2">17</text>
+<text top="610" left="461" width="13" height="15" font="2">70</text>
+<text top="610" left="519" width="13" height="15" font="2">33</text>
+<text top="610" left="575" width="13" height="15" font="2">37</text>
+<text top="610" left="633" width="4" height="15" font="2"> </text>
+<text top="610" left="685" width="23" height="15" font="2">Split</text>
+<text top="610" left="746" width="21" height="15" font="3">Rep</text>
+<text top="610" left="799" width="39" height="15" font="2">Divided</text>
+<text top="628" left="25" width="51" height="15" font="2">New York</text>
+<text top="628" left="158" width="20" height="15" font="2">213</text>
+<text top="628" left="220" width="13" height="15" font="2">63</text>
+<text top="628" left="279" width="13" height="15" font="2">31</text>
+<text top="628" left="339" width="13" height="15" font="2">32</text>
+<text top="628" left="457" width="20" height="15" font="2">150</text>
+<text top="628" left="515" width="20" height="15" font="2">104</text>
+<text top="628" left="575" width="13" height="15" font="2">44</text>
+<text top="628" left="628" width="13" height="15" font="2">2v</text>
+<text top="628" left="685" width="23" height="15" font="2">Split</text>
+<text top="628" left="744" width="25" height="15" font="3">Dem</text>
+<text top="628" left="799" width="39" height="15" font="2">Divided</text>
+<text top="646" left="25" width="76" height="15" font="2">North Carolina</text>
+<text top="646" left="158" width="20" height="15" font="2">170</text>
+<text top="646" left="220" width="13" height="15" font="2">50</text>
+<text top="646" left="279" width="13" height="15" font="2">16</text>
+<text top="646" left="339" width="13" height="15" font="2">34</text>
+<text top="646" left="457" width="20" height="15" font="2">120</text>
+<text top="646" left="519" width="13" height="15" font="2">45</text>
+<text top="646" left="575" width="13" height="15" font="2">74</text>
+<text top="646" left="631" width="7" height="15" font="2">1</text>
+<text top="646" left="686" width="21" height="15" font="3">Rep</text>
+<text top="646" left="746" width="21" height="15" font="3">Rep</text>
+<text top="646" left="808" width="21" height="15" font="3">Rep</text>
+<text top="663" left="25" width="78" height="15" font="2">North Dakota  </text>
+<text top="663" left="158" width="20" height="15" font="2">141</text>
+<text top="663" left="220" width="13" height="15" font="2">47</text>
+<text top="663" left="279" width="13" height="15" font="2">15</text>
+<text top="663" left="339" width="13" height="15" font="2">32</text>
+<text top="663" left="461" width="13" height="15" font="2">94</text>
+<text top="663" left="519" width="13" height="15" font="2">23</text>
+<text top="663" left="575" width="13" height="15" font="2">71</text>
+<text top="663" left="686" width="21" height="15" font="3">Rep</text>
+<text top="663" left="746" width="21" height="15" font="3">Rep</text>
+<text top="663" left="808" width="21" height="15" font="3">Rep</text>
+<text top="681" left="25" width="24" height="15" font="2">Ohio</text>
+<text top="681" left="158" width="20" height="15" font="2">132</text>
+<text top="681" left="220" width="13" height="15" font="2">33</text>
+<text top="681" left="279" width="13" height="15" font="2">10</text>
+<text top="681" left="339" width="13" height="15" font="2">23</text>
+<text top="681" left="461" width="13" height="15" font="2">99</text>
+<text top="681" left="519" width="13" height="15" font="2">34</text>
+<text top="681" left="575" width="13" height="15" font="2">65</text>
+<text top="681" left="633" width="4" height="15" font="2"> </text>
+<text top="681" left="686" width="21" height="15" font="3">Rep</text>
+<text top="681" left="746" width="21" height="15" font="3">Rep</text>
+<text top="681" left="808" width="21" height="15" font="3">Rep</text>
+<text top="698" left="25" width="53" height="15" font="2">Oklahoma</text>
+<text top="698" left="158" width="20" height="15" font="2">149</text>
+<text top="698" left="220" width="13" height="15" font="2">48</text>
+<text top="698" left="282" width="7" height="15" font="2">9</text>
+<text top="698" left="339" width="13" height="15" font="2">39</text>
+<text top="698" left="457" width="20" height="15" font="2">101</text>
+<text top="698" left="519" width="13" height="15" font="2">30</text>
+<text top="698" left="575" width="13" height="15" font="2">71</text>
+<text top="698" left="686" width="21" height="15" font="3">Rep</text>
+<text top="698" left="746" width="21" height="15" font="3">Rep</text>
+<text top="698" left="808" width="21" height="15" font="3">Rep</text>
+<text top="716" left="25" width="39" height="15" font="2">Oregon</text>
+<text top="716" left="162" width="13" height="15" font="2">90</text>
+<text top="716" left="220" width="13" height="15" font="2">30</text>
+<text top="716" left="279" width="13" height="15" font="2">18</text>
+<text top="716" left="339" width="13" height="15" font="2">12</text>
+<text top="716" left="461" width="13" height="15" font="2">60</text>
+<text top="716" left="519" width="13" height="15" font="2">35</text>
+<text top="716" left="575" width="13" height="15" font="2">25</text>
+<text top="716" left="633" width="4" height="15" font="2"> </text>
+<text top="716" left="684" width="25" height="15" font="3">Dem</text>
+<text top="716" left="744" width="25" height="15" font="3">Dem</text>
+<text top="716" left="806" width="25" height="15" font="3">Dem</text>
+<text top="733" left="25" width="68" height="15" font="2">Pennsylvania</text>
+<text top="733" left="158" width="20" height="15" font="2">253</text>
+<text top="733" left="220" width="13" height="15" font="2">50</text>
+<text top="733" left="279" width="13" height="15" font="2">19</text>
+<text top="733" left="339" width="13" height="15" font="2">30</text>
+<text top="733" left="400" width="13" height="15" font="2">1v</text>
+<text top="733" left="457" width="20" height="15" font="2">203</text>
+<text top="733" left="519" width="13" height="15" font="2">82</text>
+<text top="733" left="571" width="20" height="15" font="2">118</text>
+<text top="733" left="628" width="13" height="15" font="2">3v</text>
+<text top="733" left="686" width="21" height="15" font="3">Rep</text>
+<text top="733" left="744" width="25" height="15" font="3">Dem</text>
+<text top="733" left="799" width="39" height="15" font="2">Divided</text>
+<text top="751" left="25" width="73" height="15" font="2">Rhode Island </text>
+<text top="751" left="158" width="20" height="15" font="2">113</text>
+<text top="751" left="220" width="13" height="15" font="2">38</text>
+<text top="751" left="279" width="13" height="15" font="2">32</text>
+<text top="751" left="342" width="7" height="15" font="2">5</text>
+<text top="751" left="403" width="7" height="15" font="2">1</text>
+<text top="751" left="461" width="13" height="15" font="2">75</text>
+<text top="751" left="519" width="13" height="15" font="2">63</text>
+<text top="751" left="575" width="13" height="15" font="2">11</text>
+<text top="751" left="631" width="7" height="15" font="2">1</text>
+<text top="751" left="684" width="25" height="15" font="3">Dem</text>
+<text top="751" left="744" width="25" height="15" font="3">Dem</text>
+<text top="751" left="806" width="25" height="15" font="3">Dem</text>
+<text top="768" left="25" width="77" height="15" font="2">South Carolina</text>
+<text top="768" left="158" width="20" height="15" font="2">170</text>
+<text top="768" left="220" width="13" height="15" font="2">46</text>
+<text top="768" left="279" width="13" height="15" font="2">17</text>
+<text top="768" left="339" width="13" height="15" font="2">28</text>
+<text top="768" left="400" width="13" height="15" font="2">1v</text>
+<text top="768" left="457" width="20" height="15" font="2">124</text>
+<text top="768" left="519" width="13" height="15" font="2">46</text>
+<text top="768" left="575" width="13" height="15" font="2">78</text>
+<text top="768" left="686" width="21" height="15" font="3">Rep</text>
+<text top="768" left="746" width="21" height="15" font="3">Rep</text>
+<text top="768" left="808" width="21" height="15" font="3">Rep</text>
+<text top="786" left="25" width="71" height="15" font="2">South Dakota</text>
+<text top="786" left="158" width="20" height="15" font="2">105</text>
+<text top="786" left="220" width="13" height="15" font="2">35</text>
+<text top="786" left="282" width="7" height="15" font="2">8</text>
+<text top="786" left="339" width="13" height="15" font="2">27</text>
+<text top="786" left="461" width="13" height="15" font="2">70</text>
+<text top="786" left="519" width="13" height="15" font="2">12</text>
+<text top="786" left="575" width="13" height="15" font="2">58</text>
+<text top="786" left="686" width="21" height="15" font="3">Rep</text>
+<text top="786" left="746" width="21" height="15" font="3">Rep</text>
+<text top="786" left="808" width="21" height="15" font="3">Rep</text>
+<text top="803" left="25" width="56" height="15" font="2">Tennessee</text>
+<text top="803" left="158" width="20" height="15" font="2">132</text>
+<text top="803" left="220" width="13" height="15" font="2">33</text>
+<text top="803" left="282" width="7" height="15" font="2">5</text>
+<text top="803" left="339" width="13" height="15" font="2">28</text>
+<text top="803" left="461" width="13" height="15" font="2">99</text>
+<text top="803" left="519" width="13" height="15" font="2">26</text>
+<text top="803" left="575" width="13" height="15" font="2">73</text>
+<text top="803" left="686" width="21" height="15" font="3">Rep</text>
+<text top="803" left="746" width="21" height="15" font="3">Rep</text>
+<text top="803" left="808" width="21" height="15" font="3">Rep</text>
+<text top="821" left="25" width="31" height="15" font="2">Texas</text>
+<text top="821" left="158" width="20" height="15" font="2">181</text>
+<text top="821" left="220" width="13" height="15" font="2">31</text>
+<text top="821" left="279" width="13" height="15" font="2">11</text>
+<text top="821" left="339" width="13" height="15" font="2">20</text>
+<text top="821" left="457" width="20" height="15" font="2">150</text>
+<text top="821" left="519" width="13" height="15" font="2">51</text>
+<text top="821" left="575" width="13" height="15" font="2">99</text>
+<text top="821" left="686" width="21" height="15" font="3">Rep</text>
+<text top="821" left="746" width="21" height="15" font="3">Rep</text>
+<text top="821" left="808" width="21" height="15" font="3">Rep</text>
+<text top="838" left="25" width="25" height="15" font="2">Utah</text>
+<text top="838" left="158" width="20" height="15" font="2">104</text>
+<text top="838" left="220" width="13" height="15" font="2">29</text>
+<text top="838" left="282" width="7" height="15" font="2">5</text>
+<text top="838" left="339" width="13" height="15" font="2">24</text>
+<text top="838" left="461" width="13" height="15" font="2">75</text>
+<text top="838" left="519" width="13" height="15" font="2">12</text>
+<text top="838" left="575" width="13" height="15" font="2">63</text>
+<text top="838" left="686" width="21" height="15" font="3">Rep</text>
+<text top="838" left="746" width="21" height="15" font="3">Rep</text>
+<text top="838" left="808" width="21" height="15" font="3">Rep</text>
+<text top="856" left="25" width="49" height="15" font="2">Vermont </text>
+<text top="856" left="158" width="20" height="15" font="2">180</text>
+<text top="856" left="220" width="13" height="15" font="2">30</text>
+<text top="856" left="279" width="13" height="15" font="2">21</text>
+<text top="856" left="342" width="7" height="15" font="2">9</text>
+<text top="856" left="457" width="20" height="15" font="2">150</text>
+<text top="856" left="519" width="13" height="15" font="2">85</text>
+<text top="856" left="575" width="13" height="15" font="2">53</text>
+<text top="856" left="628" width="13" height="15" font="2">12</text>
+<text top="856" left="684" width="25" height="15" font="3">Dem</text>
+<text top="856" left="744" width="25" height="15" font="3">Dem</text>
+<text top="856" left="806" width="25" height="15" font="3">Dem</text>
+<text top="873" left="25" width="39" height="15" font="2">Virginia</text>
+<text top="873" left="158" width="20" height="15" font="2">140</text>
+<text top="873" left="220" width="13" height="15" font="2">40</text>
+<text top="873" left="279" width="13" height="15" font="2">19</text>
+<text top="873" left="339" width="13" height="15" font="2">21</text>
+<text top="873" left="457" width="20" height="15" font="2">100</text>
+<text top="873" left="519" width="13" height="15" font="2">34</text>
+<text top="873" left="575" width="13" height="15" font="2">66</text>
+<text top="873" left="686" width="21" height="15" font="3">Rep</text>
+<text top="873" left="744" width="25" height="15" font="3">Dem</text>
+<text top="873" left="799" width="39" height="15" font="2">Divided</text>
+<text top="890" left="25" width="62" height="15" font="2">Washington</text>
+<text top="890" left="158" width="20" height="15" font="2">147</text>
+<text top="890" left="220" width="13" height="15" font="2">49</text>
+<text top="890" left="279" width="13" height="15" font="2">24</text>
+<text top="890" left="339" width="13" height="15" font="2">25</text>
+<text top="890" left="404" width="4" height="15" font="2"> </text>
+<text top="890" left="461" width="13" height="15" font="2">98</text>
+<text top="890" left="519" width="13" height="15" font="2">50</text>
+<text top="890" left="575" width="13" height="15" font="2">48</text>
+<text top="890" left="685" width="23" height="15" font="2">Split</text>
+<text top="890" left="744" width="25" height="15" font="3">Dem</text>
+<text top="890" left="799" width="39" height="15" font="2">Divided</text>
+<text top="908" left="25" width="70" height="15" font="2">West Virginia</text>
+<text top="908" left="158" width="20" height="15" font="2">134</text>
+<text top="908" left="220" width="13" height="15" font="2">34</text>
+<text top="908" left="279" width="13" height="15" font="2">16</text>
+<text top="908" left="339" width="13" height="15" font="2">18</text>
+<text top="908" left="457" width="20" height="15" font="2">100</text>
+<text top="908" left="519" width="13" height="15" font="2">36</text>
+<text top="908" left="575" width="13" height="15" font="2">64</text>
+<text top="908" left="686" width="21" height="15" font="3">Rep</text>
+<text top="908" left="744" width="25" height="15" font="3">Dem</text>
+<text top="908" left="799" width="39" height="15" font="2">Divided</text>
+<text top="925" left="25" width="52" height="15" font="2">Wisconsin</text>
+<text top="925" left="158" width="20" height="15" font="2">132</text>
+<text top="925" left="220" width="13" height="15" font="2">33</text>
+<text top="925" left="279" width="13" height="15" font="2">14</text>
+<text top="925" left="339" width="13" height="15" font="2">19</text>
+<text top="925" left="461" width="13" height="15" font="2">99</text>
+<text top="925" left="519" width="13" height="15" font="2">36</text>
+<text top="925" left="575" width="13" height="15" font="2">63</text>
+<text top="925" left="686" width="21" height="15" font="3">Rep</text>
+<text top="925" left="746" width="21" height="15" font="3">Rep</text>
+<text top="925" left="808" width="21" height="15" font="3">Rep</text>
+<text top="942" left="25" width="49" height="15" font="2">Wyoming</text>
+<text top="942" left="162" width="13" height="15" font="2">90</text>
+<text top="942" left="220" width="13" height="15" font="2">30</text>
+<text top="942" left="282" width="7" height="15" font="2">4</text>
+<text top="942" left="339" width="13" height="15" font="2">26</text>
+<text top="942" left="461" width="13" height="15" font="2">60</text>
+<text top="942" left="522" width="7" height="15" font="2">9</text>
+<text top="942" left="575" width="13" height="15" font="2">51</text>
+<text top="942" left="686" width="21" height="15" font="3">Rep</text>
+<text top="942" left="746" width="21" height="15" font="3">Rep</text>
+<text top="942" left="808" width="21" height="15" font="3">Rep</text>
+<text top="982" left="25" width="72" height="15" font="1"><b>Total States</b></text>
+<text top="982" left="153" width="31" height="15" font="1"><b>7383</b></text>
+<text top="982" left="211" width="31" height="15" font="1"><b>1972</b></text>
+<text top="982" left="274" width="23" height="15" font="1"><b>826</b></text>
+<text top="982" left="330" width="31" height="15" font="1"><b>1088</b></text>
+<text top="981" left="387" width="38" height="15" font="1"><b>52, 6v</b></text>
+<text top="982" left="452" width="31" height="15" font="1"><b>5411</b></text>
+<text top="982" left="510" width="31" height="15" font="1"><b>2338</b></text>
+<text top="982" left="566" width="31" height="15" font="1"><b>3033</b></text>
+<text top="981" left="613" width="42" height="15" font="1"><b>24,16v</b></text>
+<text top="961" left="669" width="56" height="15" font="1"><b>30R,11D </b></text>
+<text top="976" left="672" width="48" height="15" font="1"><b>8S, 1NA</b></text>
+<text top="961" left="744" width="28" height="15" font="1"><b>32R </b></text>
+<text top="976" left="735" width="45" height="15" font="1"><b>17D,1I </b></text>
+<text top="961" left="796" width="48" height="15" font="1"><b>23R,7D </b></text>
+<text top="976" left="791" width="57" height="15" font="1"><b>19D,1NA </b></text>
+<text top="1017" left="25" width="91" height="15" font="1"><b>U.S. Territories</b></text>
+<text top="1000" left="153" width="34" height="15" font="1"><b>Total </b></text>
+<text top="1016" left="152" width="33" height="15" font="1"><b>Seats</b></text>
+<text top="1000" left="211" width="34" height="15" font="1"><b>Total </b></text>
+<text top="1016" left="205" width="42" height="15" font="1"><b>Senate</b></text>
+<text top="1000" left="264" width="45" height="15" font="1"><b>Senate </b></text>
+<text top="1016" left="269" width="32" height="15" font="1"><b>Dem.</b></text>
+<text top="1000" left="324" width="45" height="15" font="1"><b>Senate </b></text>
+<text top="1016" left="332" width="27" height="15" font="1"><b>Rep.</b></text>
+<text top="1000" left="385" width="45" height="15" font="1"><b>Senate </b></text>
+<text top="1016" left="389" width="33" height="15" font="1"><b>other</b></text>
+<text top="1000" left="452" width="34" height="15" font="1"><b>Total </b></text>
+<text top="1016" left="448" width="38" height="15" font="1"><b>House</b></text>
+<text top="1000" left="506" width="41" height="15" font="1"><b>House </b></text>
+<text top="1016" left="509" width="32" height="15" font="1"><b>Dem.</b></text>
+<text top="1000" left="562" width="41" height="15" font="1"><b>House </b></text>
+<text top="1016" left="568" width="27" height="15" font="1"><b>Rep.</b></text>
+<text top="1000" left="615" width="41" height="15" font="1"><b>House </b></text>
+<text top="1016" left="618" width="33" height="15" font="1"><b>other</b></text>
+<text top="999" left="678" width="39" height="15" font="1"><b>Legis. </b></text>
+<text top="1014" left="674" width="44" height="15" font="1"><b>Control</b></text>
+<text top="999" left="743" width="31" height="15" font="1"><b>Gov. </b></text>
+<text top="1014" left="740" width="32" height="15" font="1"><b>Party</b></text>
+<text top="999" left="791" width="57" height="15" font="1"><b>Territory </b></text>
+<text top="1014" left="796" width="44" height="15" font="1"><b>Control</b></text>
+<text top="1032" left="25" width="89" height="15" font="2">American Samoa</text>
+<text top="1032" left="162" width="13" height="15" font="2">39</text>
+<text top="1032" left="220" width="13" height="15" font="2">18</text>
+<text top="1032" left="461" width="13" height="15" font="2">21</text>
+<text top="1032" left="686" width="20" height="15" font="2">N/A</text>
+<text top="1032" left="748" width="18" height="15" font="2">Ind</text>
+<text top="1032" left="808" width="20" height="15" font="2">N/A</text>
+<text top="1048" left="25" width="103" height="15" font="2">District of Columbia</text>
+<text top="1048" left="162" width="13" height="15" font="2">13</text>
+<text top="1048" left="220" width="13" height="15" font="2">13</text>
+<text top="1048" left="279" width="13" height="15" font="2">11</text>
+<text top="1048" left="342" width="7" height="15" font="2">0</text>
+<text top="1048" left="403" width="7" height="15" font="2">2</text>
+<text top="1048" left="684" width="25" height="15" font="3">Dem</text>
+<text top="1048" left="747" width="20" height="15" font="2">N/A</text>
+<text top="1048" left="808" width="20" height="15" font="2">N/A</text>
+<text top="1063" left="25" width="31" height="15" font="2">Guam</text>
+<text top="1063" left="162" width="13" height="15" font="2">15</text>
+<text top="1063" left="220" width="13" height="15" font="2">15</text>
+<text top="1063" left="282" width="7" height="15" font="2">9</text>
+<text top="1063" left="342" width="7" height="15" font="2">6</text>
+<text top="1063" left="684" width="25" height="15" font="3">Dem</text>
+<text top="1063" left="799" width="39" height="15" font="2">Divided</text>
+<text top="1078" left="25" width="83" height="15" font="2">Mariana Islands</text>
+<text top="1078" left="162" width="13" height="15" font="2">29</text>
+<text top="1078" left="223" width="7" height="15" font="2">9</text>
+<text top="1078" left="278" width="14" height="15" font="2">1C</text>
+<text top="1078" left="342" width="7" height="15" font="2">5</text>
+<text top="1078" left="403" width="7" height="15" font="2">3</text>
+<text top="1078" left="461" width="13" height="15" font="2">20</text>
+<text top="1078" left="518" width="14" height="15" font="2">4C</text>
+<text top="1078" left="578" width="7" height="15" font="2">5</text>
+<text top="1078" left="628" width="13" height="15" font="2">11</text>
+<text top="1078" left="685" width="23" height="15" font="2">Split</text>
+<text top="1078" left="799" width="39" height="15" font="2">Divided</text>
+<text top="1094" left="25" width="61" height="15" font="2">Puerto Rico</text>
+<text top="1094" left="162" width="13" height="15" font="2">78</text>
+<text top="1094" left="220" width="13" height="15" font="2">27</text>
+<text top="1094" left="268" width="35" height="15" font="2">18PDP</text>
+<text top="1094" left="331" width="28" height="15" font="2">8NPP</text>
+<text top="1094" left="403" width="7" height="15" font="2">1</text>
+<text top="1094" left="442" width="13" height="15" font="2">51</text>
+<text top="1094" left="508" width="35" height="15" font="2">28PDP</text>
+<text top="1094" left="564" width="35" height="15" font="2">23NPP</text>
+<text top="1094" left="631" width="7" height="15" font="2">0</text>
+<text top="1094" left="685" width="21" height="15" font="2">PDP</text>
+<text top="1094" left="746" width="21" height="15" font="2">PDP</text>
+<text top="1094" left="808" width="21" height="15" font="2">PDP</text>
+<text top="1109" left="25" width="72" height="15" font="2">Virgin Islands</text>
+<text top="1109" left="162" width="13" height="15" font="2">15</text>
+<text top="1109" left="220" width="13" height="15" font="2">15</text>
+<text top="1109" left="686" width="20" height="15" font="2">N/A</text>
+<text top="1109" left="808" width="20" height="15" font="2">N/A</text>
+<text top="1127" left="25" width="650" height="12" font="4"><b>National Conference of State Legislatures          </b><i> (Abbreviations: vacancy, undecided, recall, Covenant Party,Popular Democratic Party)</i></text>
+<text top="1063" left="442" width="59" height="15" font="2">Unicameral</text>
+<text top="1109" left="442" width="59" height="15" font="2">Unicameral</text>
+<text top="28" left="146" width="408" height="20" font="6"><b>2016 State and Legislative Partisan Composition</b></text>
+<text top="36" left="727" width="64" height="11" font="7">(Jan. 29, 2016)</text>
+<text top="1032" left="312" width="68" height="15" font="2">Non-partisan</text>
+<text top="1032" left="544" width="68" height="15" font="2">Non-partisan</text>
+<text top="1048" left="442" width="59" height="15" font="2">Unicameral</text>
+</page>
+</pdf2xml>
