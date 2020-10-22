@@ -240,7 +240,8 @@
 <text top="383" left="518" width="13" height="15" font="2">42</text>
 <text top="383" left="574" width="13" height="15" font="2">60</text>
 <text top="383" left="630" width="7" height="15" font="2">3</text>
-<text top="383" left="685" width="83" height="15" font="3">Rep Rep Dem</text>
+<text top="383" left="686" width="81" height="15" font="3">Rep</text>
+<text top="383" left="746" width="21" height="15" font="3">Dem</text>
 <text top="383" left="798" width="39" height="15" font="2">Divided</text>
 <text top="401" left="25" width="31" height="15" font="2">Maine</text>
 <text top="401" left="158" width="20" height="15" font="2">186</text>

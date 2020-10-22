@@ -243,7 +243,8 @@
 <text top="383" left="535" width="13" height="15" font="2">44</text>
 <text top="383" left="591" width="13" height="15" font="2">59</text>
 <text top="383" left="647" width="7" height="15" font="2">2</text>
-<text top="383" left="702" width="81" height="15" font="3">Rep Rep Rep</text>
+<text top="383" left="702" width="81" height="15" font="3">Rep</text>
+<text top="383" left="762" width="21" height="15" font="3">Rep</text>
 <text top="383" left="824" width="21" height="15" font="3">Rep</text>
 <text top="401" left="52" width="31" height="15" font="2">Maine</text>
 <text top="401" left="186" width="20" height="15" font="2">186</text>

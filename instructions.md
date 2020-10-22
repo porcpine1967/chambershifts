@@ -14,3 +14,13 @@
 2. Convert documents to xml with pdftohtml utility (currently in xml directory). Example for 2020:
 
  `pdftohtml -xml 'raw/Legis_Control_2020_April 1.pdf' -stdout > xml/2020.xml`
+
+3. Fix Louisiana data from 2015, 2016, 2017, and 2018 to reflect what is visible in the pdf by changing
+
+`<text top="383" left="702" width="81" height="15" font="3">Rep Rep (Dem|Rep)</text>`
+
+to
+
+`<text top="383" left="702" width="81" height="15" font="3">Rep</text>`
+
+`<text top="383" left="762" width="21" height="15" font="3">(Dem|Rep)</text>`
