@@ -51,3 +51,22 @@ state_names = [
     "West Virginia",
     "Wyoming",
 ]
+
+southern_states = [
+    "Alabama",
+    "Arkansas",
+    "Delaware",
+    "Florida",
+    "Georgia",
+    "Kentucky",
+    "Louisiana",
+    "Maryland",
+    "Mississippi",
+    "North Carolina",
+    "Oklahoma",
+    "South Carolina",
+    "Tennessee",
+    "Texas",
+    "Virginia",
+    "West Virginia",
+]
