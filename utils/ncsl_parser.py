@@ -15,36 +15,47 @@ from xml.dom.minidom import parse
 
 from state_names import state_names
 
+
 class State:
+    """ Bean for holding and formatting yearly party information."""
+
     def __init__(self, name):
         self.name = name
         self.data = {}
 
     @property
     def header(self):
-        return 'State,' + ','.join([k.split()[0] for k in sorted(self.data)])
+        """ Headers for csv """
+        return "State," + ",".join([k.split()[0] for k in sorted(self.data)])
+
     @property
     def to_csv(self):
-        return self.name + ',' + ','.join([self.data[k] for k in sorted(self.data)])
-    
+        """ Ordered list of parties based on headers """
+        party_list = ",".join([self.data[k] for k in sorted(self.data)])
+        return self.name + "," + party_list
+
+
 class PdfDoc:
+    """ Parser of ncsl pdf documents."""
+
     def __init__(self, states, path):
         self.states = states
         basename = os.path.basename(path)
         self.year = os.path.splitext(basename)[0]
         self.doc_years = None
-        
+
         self.doc = parse(path)
-        self.lines = defaultdict(lambda: Line())
-        if '_' in self.year:
+        self.lines = defaultdict(Line)
+        if "_" in self.year:
             self.parse_years()
         else:
             self.parse_year()
 
     def parse_years(self):
-        print('parsing years')
-        for node in self.doc.getElementsByTagName('text'):
-            top = int(node.getAttribute('top'))
+        """ Adds party info to states for every year in the document."""
+        print("parsing years")
+        for node in self.doc.getElementsByTagName("text"):
+            top = int(node.getAttribute("top"))
             line = None
             if top in self.lines:
                 line = self.lines[top]
@@ -56,32 +67,35 @@ class PdfDoc:
                 line = Line()
                 self.lines[top] = line
             line.nodes.append(node)
-            
+
         for line in self.lines.values():
             if line.state in self.states:
                 for idx, year in enumerate(self.years):
                     party = line.node_values[idx + 1]
-                    if party == 'S':
-                        party = 'Split'
-                    states[line.state].data[year] = party.replace('*', '')
-        
+                    if party == "S":
+                        party = "Split"
+                    self.states[line.state].data[year] = party.replace("*", "")
+
     def parse_year(self):
-        print('parsing year', self.year)
-        for node in self.doc.getElementsByTagName('text'):
-            self.lines[node.getAttribute('top')].nodes.append(node)
+        """ Adds party info to states for the year of the document."""
+        print("parsing year", self.year)
+        for node in self.doc.getElementsByTagName("text"):
+            self.lines[node.getAttribute("top")].nodes.append(node)
         for line in self.lines.values():
             if line.state in self.states:
-                states[line.state].data[self.year] = line.party
+                self.states[line.state].data[self.year] = line.party
 
     @property
     def years(self):
+        """ Property calculated after all the lines assigned."""
         if not self.doc_years:
-            start_year = self.year.split('_')[0]
+            start_year = self.year.split("_")[0]
             for line in self.lines.values():
                 if line.state == start_year:
                     self.doc_years = line.node_values
         return self.doc_years
-    
+
+
 class Line:
     def __init__(self):
         self.nodes = []
@@ -89,35 +103,62 @@ class Line:
 
     @property
     def data(self):
+        """ All the nodes in the line ordered by left attribute. """
         if not self.sorted_nodes:
-            self.sorted_nodes = sorted(self.nodes, key = lambda x: int(x.getAttribute('left')))
+            self.sorted_nodes = sorted(
+                self.nodes, key=lambda x: int(x.getAttribute("left"))
+            )
         return self.sorted_nodes
-    
+
     @property
     def party(self):
-        p = self.data[-3].childNodes[0].toxml().strip().replace('*', '')
-        if p not in set(['Rep', 'Dem', 'Split', 'Divided',]):
-            raise Exception("No such party {} in {}".format(p, self.state))
-        if p == 'Divided':
-            return 'Split'
-        return p
+        """ Party indicated in the line.
+        Only useful for single-year documents."""
+        raw_party = plaintext(self.data[-3])
+        if raw_party not in set(["Rep", "Dem", "Split", "Divided"]):
+            msg = "No such party {} in {}".format(raw_party, self.state)
+            raise Exception(msg)
+        if raw_party == "Divided":
+            return "Split"
+        return raw_party
 
     @property
     def state(self):
-        return self.data[0].childNodes[0].toxml().strip().replace('*', '').replace('<b>', '').replace('</b>', '')
+        """ State indicated in the line."""
+        return plaintext(self.data[0])
 
     @property
     def node_values(self):
-        return [v.childNodes[0].toxml().replace('<b>', '').replace('</b>', '') for v in self.data]
-if __name__ == '__main__':
+        """ Text values of all nodes in the line. """
+        return [plaintext(node) for node in self.data]
+
+
+def plaintext(node):
+    """ Returns text of node without tags or weirdness"""
+    return (
+        node.childNodes[0]
+        .toxml()
+        .strip()
+        .replace("*", "")
+        .replace("<b>", "")
+        .replace("</b>", "")
+    )
+
+
+def run():
+    """ Scoped."""
     states = {}
-    for n in state_names:
-        states[n] = State(n)
-    
-    for fn in os.listdir('xml'):
-        PdfDoc(states, 'xml/{}'.format(fn))
+    for name in state_names:
+        states[name] = State(name)
+
+    for filename in os.listdir("xml"):
+        PdfDoc(states, "xml/{}".format(filename))
 
     for idx, state in enumerate(states.values()):
         if idx == 0:
             print(state.header)
         print(state.to_csv)
+
+
+if __name__ == "__main__":
+    run()
