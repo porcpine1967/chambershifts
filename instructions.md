@@ -24,3 +24,5 @@ to
 `<text top="383" left="702" width="81" height="15" font="3">Rep</text>`
 
 `<text top="383" left="762" width="21" height="15" font="3">(Dem|Rep)</text>`
+
+4. Run utils/ncsl_parser.py to generate state data -- writes to data/state_legislatures.csv
